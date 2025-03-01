@@ -1,0 +1,12 @@
+#contactForm {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #contactForm input, 
+  #contactForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+  }
